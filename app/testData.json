@@ -1,0 +1,128 @@
+[{
+    "id": "5f39ef29-3f55-404a-8d57-a446df7c0e35",
+    "title": "Tokyo",
+    "albumType": "Personal",
+    "createdById": "16b43208-ab8d-481d-a4d6-8b7e4b4c9478",
+    "createdBy": {
+        "id": "16b43208-ab8d-481d-a4d6-8b7e4b4c9478",
+        "avatar": "https://i.imgur.com/3QjDgHj.png",
+        "username": "test0",
+        "name": "Scott McGhie",
+        "userType": "regular",
+        "totalDataUsed": 100,
+        "friends": []
+    },
+    "sharedUsers": [],
+    "moments": [
+        {
+            "id": "3e7e01df-ef2e-43b1-a9a1-d48ded6fe52a",
+            "image": "https://i.imgur.com/LJdFM2J.jpeg",
+            "description": "Taito, Tokyo, Japan",
+            "coordinates": [
+                139.79089444444443,
+                35.71178333333334
+            ],
+            "commentCount": 0,
+            "captureDate": "2023-05-12T05:18:39.000Z",
+            "albumId": "5f39ef29-3f55-404a-8d57-a446df7c0e35",
+            "createdBy": {
+                "id": "16b43208-ab8d-481d-a4d6-8b7e4b4c9478",
+                "avatar": "https://i.imgur.com/3QjDgHj.png",
+                "username": "test0",
+                "name": "Scott McGhie"
+            }
+        },
+        {
+            "id": "3e7e01df-ef2e-43b1-a9a1-d48ded6fe52b",
+            "image": "https://i.imgur.com/FL0shvB.jpeg",
+            "description": "Taito, Tokyo, Japan",
+            "coordinates": [
+                139.69932500000002,
+                35.69262222222222
+            ],
+            "commentCount": 0,
+            "captureDate": "2023-05-12T05:18:39.000Z",
+            "albumId": "5f39ef29-3f55-404a-8d57-a446df7c0e35",
+            "createdBy": {
+                "id": "16b43208-ab8d-481d-a4d6-8b7e4b4c9478",
+                "avatar": "https://i.imgur.com/3QjDgHj.png",
+                "username": "test0",
+                "name": "Scott McGhie"
+            }
+        },
+        {
+            "id": "3e7e01df-ef2e-43b1-a9a1-d48ded6fe52c",
+            "image": "https://i.imgur.com/hxoxMvC.jpeg",
+            "description": "Taito, Tokyo, Japan",
+            "coordinates": [
+                139.70098888888887,
+                35.69388333333333
+            ],
+            "commentCount": 0,
+            "captureDate": "2023-05-12T05:18:39.000Z",
+            "albumId": "5f39ef29-3f55-404a-8d57-a446df7c0e35",
+            "createdBy": {
+                "id": "16b43208-ab8d-481d-a4d6-8b7e4b4c9478",
+                "avatar": "https://i.imgur.com/3QjDgHj.png",
+                "username": "test0",
+                "name": "Scott McGhie"
+            }
+        },
+        {
+            "id": "3e7e01df-ef2e-43b1-a9a1-d48ded6fe52d",
+            "image": "https://i.imgur.com/0lerRCG.jpeg",
+            "description": "Taito, Tokyo, Japan",
+            "coordinates": [
+                139.75273055555556,
+                35.70500833333334
+            ],
+            "commentCount": 0,
+            "captureDate": "2023-05-12T05:18:39.000Z",
+            "albumId": "5f39ef29-3f55-404a-8d57-a446df7c0e35",
+            "createdBy": {
+                "id": "16b43208-ab8d-481d-a4d6-8b7e4b4c9478",
+                "avatar": "https://i.imgur.com/3QjDgHj.png",
+                "username": "test0",
+                "name": "Scott McGhie"
+            }
+        }
+    ]
+},
+{
+    "id": "3844a660-8e92-4184-84c2-a4fb871a4dd3",
+    "title": "Osaka",
+    "albumType": "Personal",
+    "createdById": "21ab944e-39b0-4998-b411-e6b5419091fa",
+    "createdBy": {
+        "id": "21ab944e-39b0-4998-b411-e6b5419091fa",
+        "avatar": "https://i.imgur.com/d5CS4Ga.png",
+        "username": "test3",
+        "name": "Jane Doe",
+        "userType": "regular",
+        "totalDataUsed": 100,
+        "friends": []
+    },
+    "sharedUsers": [],
+    "moments": [
+        {
+            "id": "0a6dcc18-d441-4d8d-bdb0-eacc633f4203",
+            "image": "https://i.imgur.com/2h8VSk1.jpeg",
+            "description": "Naniwa Ku, Osaka, Japan",
+            "coordinates": [
+                135.50031944444444,
+                34.669044444444445
+            ],
+            "commentCount": 0,
+            "captureDate": "2023-05-03T23:00:52.000Z",
+            "albumId": "3844a660-8e92-4184-84c2-a4fb871a4dd3",
+            "createdBy": {
+                "id": "21ab944e-39b0-4998-b411-e6b5419091fa",
+                "avatar": "https://i.imgur.com/d5CS4Ga.png",
+                "username": "test3",
+                "name": "Jane Doe"
+            }
+        }
+    ]
+}
+
+]
